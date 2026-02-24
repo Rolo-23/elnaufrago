@@ -1,0 +1,5 @@
+{
+  "name": "Barber Trap",
+  "description": "Un sistema de gestión completo para barberías con una temática trap. Incluye un panel de administración y un portal público para que los clientes reserven turnos. Gestiona un calendario, muestra estadísticas mensuales y permite a los administradores gestionar servicios y precios.",
+  "requestFramePermissions": []
+}
